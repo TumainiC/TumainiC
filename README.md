@@ -9,8 +9,8 @@
 *I build things that think — RAG chatbots, OCR pipelines, ML models — and I'm on a mission to bring that energy to data engineering.*
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cindy-tumaini/?originalSubdomain=ke)
-[![Medium](https://img.shields.io/badge/I_Write_Too-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
-[![Email](https://img.shields.io/badge/Say_Hi-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cindytumaini06@gmail.com)
+[![Medium](https://img.shields.io/badge/I_Write_Too-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@cindytumaini06/)
+[![Email](https://img.shields.io/badge/Say_Hi-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mtumainicindy@gmail.com)
 
 </div>
 
